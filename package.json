@@ -1,0 +1,14 @@
+{
+  "name": "shaikh-farm",
+  "version": "1.0.0",
+  "description": "my first Dynamic website ",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "saudshk99",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
